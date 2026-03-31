@@ -1,5 +1,5 @@
 <h2 align="center">
-  DFINE-BRA: A Lightweight Algorithm for Growth Stage Detection in Brassica Crops
+  DFINE-BRA paper source code
 </h2>
 
 # Acknowledgement
